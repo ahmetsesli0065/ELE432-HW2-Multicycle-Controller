@@ -1,0 +1,5 @@
+1 7 mainfsm 4 fast 37 C:/Users/LENOVO/Desktop/fpga/HW2/work 0 0 131072 0 214 0
+1 6 aludec 4 fast 37 C:/Users/LENOVO/Desktop/fpga/HW2/work 0 0 0 0 45 0
+2 8 instrdec 4 fast 37 C:/Users/LENOVO/Desktop/fpga/HW2/work 0 0 0 0 24 0
+2 10 controller 4 fast 37 C:/Users/LENOVO/Desktop/fpga/HW2/work 0 0 0 0 64 0
+2 9 testbench 4 fast 37 C:/Users/LENOVO/Desktop/fpga/HW2/work 0 0 0 0 224 0
